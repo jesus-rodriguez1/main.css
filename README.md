@@ -15,3 +15,8 @@ body {
     background-color: blueviolet;
     padding: 2em 2em 4em; 
 }
+
+.Neymar{
+    width: 500px;
+    height: 550px;
+}
