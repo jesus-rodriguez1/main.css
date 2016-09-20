@@ -1,6 +1,6 @@
 body {
     margin: 0 auto;
-    padding: 2em 2em 4em;
+    padding: 2em 2em 2em;
     max-width: 1080px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
@@ -16,7 +16,20 @@ body {
     padding: 2em 2em 4em; 
 }
 
-.Neymar{
+.CR{
     width: 500px;
     height: 550px;
+}
+
+.LB{
+    width: 500px; 
+    height: 550px; 
+}
+
+.container{
+    
+}
+
+.div{
+    color: black;
 }
