@@ -1,7 +1,7 @@
 body {
     margin: 0 auto;
     padding: 1em 1em 1em;
-    max-width: 1080px;
+    max-width: 1175px;
     font-family: Arial;
     font-size: 16px;
     line-height: 1.5em;
@@ -13,45 +13,53 @@ body {
 
 .About{
     background-color: white;
-    padding: 0.5em 1em 1em; 
     border-color: black;
+    padding-bottom: .5em;
+    padding-top: .5em;
+    padding-left: .5em;
+    padding-right: .5em;
+    
 }
 
 .CR{
-    width: 35em;
-    height: 25em;
-    background-image: url("https://s-media-cache-ak0.pinimg.com/564x/10/ef/dc/10efdcb2e274642817738b16c617bcb9.jpg");
+    background-color: white;
     background-size: cover;
+    padding-bottom: .3em;
+    padding-top: .3em;
+    padding-left: .3em;
+    padding-right: .3em;
     
 }
 
 .LB{
-    height: 25em;
-    width: 36em;
-    background-image: url("http://6.kicksonfire.net/wp-content/uploads/2015/12/nike.jpg?9a1c09");
     background-size:cover;
+    background-color: white;
+    padding-bottom: .3em;
+    padding-top: .3em;
+    padding-left: .3em;
+    padding-right: .3em;
 }
 
-.container{
-    padding: 1em 1em 1em;
-    border-color: white;
+.row{
+    padding-bottom: 1em;
+    padding-right: 1em;
+    padding-left: 1em;
+    padding-top: 1em;
 }
-
-
 
 #nike{
     color: black;
     text-align: center;
     font-size: 30;
+    
 }
 
-.slogon{
-    background-color: white;
-    padding: 1em em 1em; 
+.slogan{
+    background-color: white; 
     color: black;
     text-align: center;
     font-family:  Futura Bold Condensed Oblique;
-    width: 33em;
+    width: 31em;
 }
 
 .Words{
@@ -64,4 +72,12 @@ body {
     color: white;
     width: 40em;
      text-align: center;
+}
+
+.name{
+    text-align: center;
+    font-size: 33px;
+    color: #050d60;
+    background-color: white;
+    
 }
