@@ -17,8 +17,7 @@ body {
     padding-bottom: .5em;
     padding-top: .5em;
     padding-left: .5em;
-    padding-right: .5em;
-    
+    padding-right: .5em; 
 }
 
 .CR{
