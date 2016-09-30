@@ -13,7 +13,6 @@ body {
 
 .About{
     background-color: white;
-    border-color: black;
     padding-bottom: .5em;
     padding-top: .5em;
     padding-left: .5em;
@@ -37,6 +36,7 @@ body {
     padding-top: .3em;
     padding-left: .3em;
     padding-right: .3em;
+    
 }
 
 .row{
@@ -47,7 +47,7 @@ body {
 }
 
 #nike{
-    color: black;
+    color: #e5191c;;
     text-align: center;
     font-size: 30;
     
