@@ -15,8 +15,8 @@ body {
     background-color: white;
     padding-bottom: .5em;
     padding-top: .5em;
-    padding-left: .5em;
-    padding-right: .5em; 
+    padding-left: .7em;
+    padding-right: .7em; 
 }
 
 .CR{
@@ -26,7 +26,6 @@ body {
     padding-top: .3em;
     padding-left: .3em;
     padding-right: .3em;
-    
 }
 
 .LB{
@@ -75,8 +74,8 @@ body {
 
 .name{
     text-align: center;
-    font-size: 33px;
-    color: #050d60;
-    background-color: white;
+    background-color: #e65c00;
+    padding-bottom: .3em;
+    padding-top: .3em;
     
 }
